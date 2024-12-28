@@ -6,11 +6,11 @@ import matplotlib.pyplot as plt
 import base64
 import subprocess
 
-ENDPOINT = "https://neuroverse.openai.azure.com/openai/deployments/gpt-4-2/chat/completions?api-version=2024-08-01-preview"
-API_KEY = "AzDwG1bfacyXrkrxXSJosuj37A3YCgXkKLl47vVkyNNzJHv101EjJQQJ99ALACfhMk5XJ3w3AAABACOGVLHI"
+ENDPOINT = ""
+API_KEY = ""
 
-# ENDPOINT2 = "https://neuroverse.openai.azure.com/openai/deployments/dall-e-3/images/generations?api-version=2024-02-01"
-# API_KEY2 = "AzDwG1bfacyXrkrxXSJosuj37A3YCgXkKLl47vVkyNNzJHv101EjJQQJ99ALACfhMk5XJ3w3AAABACOGVLHI"
+# ENDPOINT2 = ""
+# API_KEY2 = ""
 
 API_VERSION = "2024-08-01-preview"
 MODEL_NAME = "gpt-4-2"
